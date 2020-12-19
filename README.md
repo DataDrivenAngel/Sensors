@@ -15,3 +15,5 @@ https://video.conlan.io/meetup_webinars/sensor_data_collection_using_microcontro
 
 Slides are in this repo at:
 https://github.com/DataDrivenAngel/Sensors/blob/main/Sensors!.pdf
+
+and as a powerpoint download: https://github.com/DataDrivenAngel/Sensors/blob/main/Sensors!.pptx?raw=true
